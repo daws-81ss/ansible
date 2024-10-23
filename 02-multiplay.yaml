@@ -11,6 +11,6 @@
   hosts: web
   tasks:
   - name: play-02 task-02
-  ansible.builtin.debug:
-    msg: "this is from task 02 and play 02"
+    ansible.builtin.debug:
+      msg: "this is from task 01 and play 02"
 
