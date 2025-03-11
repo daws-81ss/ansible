@@ -11,7 +11,7 @@
       - mysql
       - backend
       - frontend
-    zone: nandadaws81s.online
+    zone: nandadaws81.online
 
   tasks:
     - name: create ec2 instance
